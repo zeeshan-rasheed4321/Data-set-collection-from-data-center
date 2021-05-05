@@ -1,0 +1,2 @@
+# Data-set-collection-from-data-center
+We adopted the data set obtained from a data center of Inner Mongolia Meteorology Information Center. We collect the rack inlet temperature of cooling system. We use Machine Learning techniqes to collect the rack inlet temperature. First we adjust the single active tile in cold aisle enviroment then analyze the single rack inlet temperature. Then we deloyed the Two active tilke and analyze the thermal performance of the rack and finally we deployed the three active tile and collect the rack inlet temperature. 
